@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Bilibili on 银河流浪家</title>
+        <link>&#39;MaeveWu.github.io&#39;/categories/bilibili/</link>
+        <description>Recent content in Bilibili on 银河流浪家</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="'MaeveWu.github.io'/categories/bilibili/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>纪录片|《我们的星球》</title>
+        <link>&#39;MaeveWu.github.io&#39;/p/%E5%BD%B1%E5%8D%95/</link>
+        <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>&#39;MaeveWu.github.io&#39;/p/%E5%BD%B1%E5%8D%95/</guid>
+        <description>&lt;img src="/%27MaeveWu.github.io%27/p/%E5%BD%B1%E5%8D%95/2cc16ec3f4b0b0f973c7ba44824504a5.jpeg" alt="Featured image of post 纪录片|《我们的星球》" /&gt;&lt;p&gt;我的B站纪录片收藏&lt;/p&gt;
+&lt;h2 id=&#34;我们的星球&#34;&gt;《我们的星球》&lt;/h2&gt;
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34; style=&#34;width:90%;margin-left:5%&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1Yz4y1z7Nx&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;  50年前，人类首次登陆月球。从而可以回望自己的星球……&lt;/p&gt;
+&lt;p&gt;  这一次在感叹自然奇迹的同时，更重要的是在告诉人类，什么是我们必须保护的。&lt;/p&gt;
+&lt;p&gt;    &lt;img src=&#34;'MaeveWu.github.io'/%27MaeveWu.github.io%27/p/%E5%BD%B1%E5%8D%95/c8d31044d9bd01bd0a4b8a7817607eb2.png&#34;
+	width=&#34;577&#34;
+	height=&#34;307&#34;
+	srcset=&#34;'MaeveWu.github.io'/%27MaeveWu.github.io%27/p/%E5%BD%B1%E5%8D%95/c8d31044d9bd01bd0a4b8a7817607eb2_hu409d95a738a5ee8cff4d7a23041e525b_288904_480x0_resize_box_3.png 480w, 'MaeveWu.github.io'/%27MaeveWu.github.io%27/p/%E5%BD%B1%E5%8D%95/c8d31044d9bd01bd0a4b8a7817607eb2_hu409d95a738a5ee8cff4d7a23041e525b_288904_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;187&#34;
+		data-flex-basis=&#34;451px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;  每一个生态系统都有着自己的生存规则。&lt;/p&gt;
+&lt;p&gt;  有的残忍冷酷，有的充满智慧；有的团结协作，有的满满温情。&lt;/p&gt;
+&lt;p&gt;  这就是我们的地球，&lt;/p&gt;
+&lt;p&gt;  一个永远在消失，却同时永远再重生的星球。
+&lt;!DOCTYPE HTML&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;title&gt;&lt;/title&gt;
+    &lt;style&gt;
+        .post-preview {
+            max-width: 780px;
+            height: 200px;
+            margin: 1em auto;
+            position: relative;
+            display: flex;
+             
+            background: var(--entry);
+            border-radius: 15px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, .25), 0 0 2px rgba(0, 0, 0, .25);
+        }
+
+        .dark .post-preview {
+             
+            background: var(--entry);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, .5), 0 0 2px rgba(0, 0, 0, .5);
+        }
+
+        .post-preview--meta {
+            width: 80%;
+            padding: 23px;
+            overflow: hidden;
+        }
+
+        .post-preview--middle {
+            line-height: 28px;
+        }
+
+        .post-preview--title {
+            font-size: 22px;
+            margin: 0 !important;
+        }
+
+        .post-preview--title a {
+            text-decoration: none;
+        }
+
+        .post-preview--date {
+            font-size: 14px;
+            color: #999;
+        }
+
+        .post-preview--excerpt {
+            font-size: 14px;
+            line-height: 1.825;
+        }
+
+        .post-preview--excerpt p {
+            display: inline;
+            margin: 0;
+        }
+
+        .post-preview--image {
+            height: 200px !important;
+            width: 25%;
+            float: right;
+            border-radius: 0 15px 15px 0;
+        }
+
+        .post-preview img {
+            margin: unset;
+            width: 20%;
+            border-radius: 0 15px 15px 0;
+        }
+
+        @media (max-width: 550px) {
+            .post-preview {
+                width: 95%;
+            }
+
+            .post-preview--excerpt {
+                 
+            }
+
+            .post-preview--middle {
+                line-height: 19px;
+            }
+
+            .post-preview--meta {
+                width: 60%;
+                padding: 23px;
+                overflow: hidden;
+            }
+
+            .post-preview img {
+                margin: unset;
+                width: 40%;
+                border-radius: 0 15px 15px 0;
+            }
+        }
+
+        .rating {
+            display: block;
+            line-height: 15px;
+        }
+
+        .rating-star {
+            display: inline-block;
+            width: 75px;
+            height: 15px;
+            background-repeat: no-repeat;
+            background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAAClCAYAAAAUAAAYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA5xJREFUeNrs3T9rFEEcxvG7qEQIglaCICKkin9AUEtBKxU7wS61VlYivgWj70TtNFj5BqzE7qxEWwsxKIoYn4UtluFmbm8nczvzm+/BjxyuDwNzu3uXD0+46f7LC5PA45Hm+WTYw1x2LRDc0jzTXB+wqMlsaLPutz8fDFjYZHYauAz3NBvt83XNnyUWNpn1nVm3OsHmsb3EomazzZnVXKMPNcc0xzUnNKc0Rzv/77fms+Z7O3vt9b1eU7bZrNN68l5zcolX4ofmsuZXTdnmMvyi2dR86Bmcac62P6vKrnVubpc0bxYE32nOab45N8YqsvPeDfcD4SOav4HjprPuu+H5BTt9LXDMfNbdLPfT678Fx6vKupt1o/O8+R3pkOaJ5/iktqx7z/qp+aq5q/nY+fczmheaK03Gs7D5rLtZdzSvA6/Ebc2u55j57HQB0TzW7AzkjiKzny6+2hlKNE8juMNcFqKBaIZndRlCNBBNgmx7ZkE0fbLtZkE0EA1EM17WuQwhGogGooFoss6296y52cNO+J6HLJoPaFdbsvA9zGerIxrPh85eWYgGooFoDiQbuAxp0UA0EVmdWbRo+ma1WbRoIBqIZtzsnHdDWjQQDUQD0WSbde5ZS2UhmtqJJtSEiVkXooFoIJre2VATJmZdiKZ2ogk1YSb8oVMvDeUPnSAaiCaPJkzMuhANRAPRQDQpsqEmTMy6EI11oolpwkA0EA1EcyDZmCYMRAPR+LMxTZjqiCamCQPRQDQQzehNGIgGooFoIJpVZ2OaMBBN7USTqgkD0UA0EE3vbKomDERTO9GkasKYJJpUTRiIBqKBaEZvwkA0EA1EA9GkyKZqwkA01olmrCYMRAPRQDR9LkO+0QmiKbAJUyTRjNWEgWggGohm9CYMRAPRQDQQzZDsWE0YiMYC0eTYhIFoIJrKiCbHJgxEY4FocmzCZEs0OTZhIBqIpjKiybEJA9FANBANROPL5tiEgWhKIJoSmzAQDURjjGhKbMJANCUQTYlNmNGIpsQmDEQD0RgjmhKbMBANRAPR1Es0JTZhIJpciMZaEwaigWgKJBprTRiIJheisdaESUo01powEA1EUyDRWGvCQDQQDURjm2isNWEgmlURzWw2q4pZIBqIJkOiCVyGJpkFolkV0ejMMvel28mIRptl7ku3IRqIpjCimfNuaJpZIBqIBqIpm2ice5Z5ZonJupvVkMRu4JW4qXnrOWY++1+AAQBw9BJSCTeN9wAAAABJRU5ErkJggg==);
+            overflow: hidden;
+        }
+
+        .allstar10 {
+            background-position: 0px 0px;
+        }
+
+        .allstar9 {
+            background-position: 0px -15px;
+        }
+
+        .allstar8 {
+            background-position: 0px -30px;
+        }
+
+        .allstar7 {
+            background-position: 0px -45px;
+        }
+
+        .allstar6 {
+            background-position: 0px -60px;
+        }
+
+        .allstar5 {
+            background-position: 0px -75px;
+        }
+
+        .allstar4 {
+            background-position: 0px -90px;
+        }
+
+        .allstar3 {
+            background-position: 0px -105px;
+        }
+
+        .allstar2 {
+            background-position: 0px -120px;
+        }
+
+        .allstar1 {
+            background-position: 0px -135px;
+        }
+
+        .allstar0 {
+            background-position: 0px -150px;
+        }
+
+
+        .rating-average {
+            color: #777;
+            display: inline-block;
+            font-size: 13px;
+            margin-left: 10px;
+        }
+    &lt;/style&gt;
+    &lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script type=&#34;text/javascript&#34;&gt;
+        $(document).ready(function () {
+            $(&#39;.douban_item&#39;).each(function () {
+                var _this = $(this);
+                var strs = _this.attr(&#39;urlstring&#39;).toString();
+                var db_reg = /^https\:\/\/(movie|book)\.douban\.com\/subject\/([0-9]+)\/?/;
+                if (db_reg.test(strs)) {
+                    var db_type = strs.replace(db_reg, &#34;$1&#34;);
+                    var db_id = strs.replace(db_reg, &#34;$2&#34;).toString();
+                    var db_api = &#34;https://douban.edui.fun/&#34;;
+                    if (db_type === &#39;movie&#39;) {
+                        var ls_item = &#39;movie&#39; + db_id;
+                        var url = db_api + &#34;movies/&#34; + db_id;
+                        if (localStorage.getItem(ls_item) == null || localStorage.getItem(ls_item) === &#39;undefined&#39;) {
+                            $.ajax({
+                                url: url, type: &#39;GET&#39;, dataType: &#34;json&#34;, success: function (data) {
+                                    localStorage.setItem(ls_item, JSON.stringify(data));
+                                    movieShow(_this, ls_item, strs)
+                                }
+                            })
+                        } else {
+                            movieShow(_this, ls_item, strs)
+                        }
+                    } else if (db_type === &#39;book&#39;) {
+                        var ls_item = &#39;book&#39; + db_id;
+                        var url = db_api + &#34;v2/book/id/&#34; + db_id;
+                        if (localStorage.getItem(ls_item) == null || localStorage.getItem(ls_item) === &#39;undefined&#39;) {
+                            $.ajax({
+                                url: url, type: &#39;GET&#39;, dataType: &#39;json&#39;, success: function (data) {
+                                    localStorage.setItem(&#39;book&#39; + db_id, JSON.stringify(data));
+                                    bookShow(_this, ls_item, strs)
+                                }
+                            })
+                        } else {
+                            bookShow(_this, ls_item, strs)
+                        }
+                    }
+                }
+            });
+        });
+
+        function movieShow(_this, ls_item, str) {
+            var storage = localStorage.getItem(ls_item);
+            var data = JSON.parse(storage);
+            var db_star = Math.ceil(data.rating);
+            $(&#34;&lt;div class=&#39;post-preview&#39;&gt;&lt;div class=&#39;post-preview--meta&#39;&gt;&lt;div class=&#39;post-preview--middle&#39;&gt;&lt;div class=&#39;post-preview--title&#39;&gt;&lt;a target=&#39;_blank&#39; style=&#39;box-shadow: none; font-weight: bolder;&#39; href=&#39;&#34; + str + &#34;&#39;&gt;&#34; + data.name + &#34;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#39;rating&#39;&gt;&lt;div class=&#39;rating-star allstar&#34; + db_star + &#34;&#39;&gt;&lt;/div&gt;&lt;div class=&#39;rating-average&#39;&gt;&#34; + data.rating + &#34;&lt;/div&gt;&lt;/div&gt;&lt;time class=&#39;post-preview--date&#39;&gt;导演：&#34; + data.director + &#34; / 类型：&#34; + data.genre + &#34; / &#34; + data.year + &#34;&lt;/time&gt;&lt;section style=&#39;max-height:75px;overflow:hidden;&#39; class=&#39;post-preview--excerpt&#39;&gt;&#34; + data.intro.replace(/\s*/g, &#34;&#34;) + &#34;&lt;/section&gt;&lt;/div&gt;&lt;/div&gt;&lt;img referrerpolicy=&#39;no-referrer&#39; loading=&#39;lazy&#39; class=&#39;post-preview--image&#39; src=&#34; + data.img + &#34;&gt;&lt;/div&gt;&#34;).replaceAll(_this)
+        }
+
+        function bookShow(_this, ls_item, str) {
+            var storage = localStorage.getItem(ls_item);
+            var data = JSON.parse(storage);
+            var db_star = Math.ceil(data.rating.average);
+            $(&#34;&lt;div class=&#39;post-preview&#39;&gt;&lt;div class=&#39;post-preview--meta&#39;&gt;&lt;div class=&#39;post-preview--middle&#39;&gt;&lt;div class=&#39;post-preview--title&#39;&gt;&lt;a target=&#39;_blank&#39; style=&#39;box-shadow: none; font-weight: bolder;&#39; href=&#39;&#34; + str + &#34;&#39;&gt;&#34; + data.title + &#34;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#39;rating&#39;&gt;&lt;div class=&#39;rating-star allstar&#34; + db_star + &#34;&#39;&gt;&lt;/div&gt;&lt;div class=&#39;rating-average&#39;&gt;&#34; + data.rating.average + &#34;&lt;/div&gt;&lt;/div&gt;&lt;time class=&#39;post-preview--date&#39;&gt;作者：&#34; + data.author + &#34; / 出版：&#34;+ data.pubdate +&#34; / &#34;+ data.publisher +&#34; &lt;/time&gt;&lt;section style=&#39;max-height:75px;overflow:hidden;&#39; class=&#39;post-preview--excerpt&#39;&gt;&#34; + data.summary.replace(/\s*/g, &#34;&#34;) + &#34;&lt;/section&gt;&lt;/div&gt;&lt;/div&gt;&lt;img referrerpolicy=&#39;no-referrer&#39; loading=&#39;lazy&#39; class=&#39;post-preview--image&#39; src=&#34; + data.images.medium + &#34;&gt;&lt;/div&gt;&#34;).replaceAll(_this)
+        }
+    &lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;douban_show&#34;&gt;
+    &lt;div id=&#34;dbhttps://movie.douban.com/subject/30374707/&#34; urlstring=&#34;https://movie.douban.com/subject/30374707/&#34; class=&#34;douban_item post-preview&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>B站歌单</title>
+        <link>&#39;MaeveWu.github.io&#39;/p/%E6%AD%8C%E5%8D%95/</link>
+        <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>&#39;MaeveWu.github.io&#39;/p/%E6%AD%8C%E5%8D%95/</guid>
+        <description>&lt;img src="/%27MaeveWu.github.io%27/p/%E6%AD%8C%E5%8D%95/e68c1750eeff49c130c54a97b6f05020.jpeg" alt="Featured image of post B站歌单" /&gt;&lt;h2 id=&#34;我的b站歌单收藏&#34;&gt;我的B站歌单收藏&lt;/h2&gt;
+&lt;h3 id=&#34;温柔治愈向&#34;&gt;温柔治愈向&lt;/h3&gt;
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34; style=&#34;width:90%;margin-left:5%&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1Wg411P7LW&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;韩剧ost&#34;&gt;韩剧OST&lt;/h3&gt;
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34; style=&#34;width:90%;margin-left:5%&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1wt4y1J7FM&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;kpop合集&#34;&gt;KPOP合集&lt;/h3&gt;
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34; style=&#34;width:90%;margin-left:5%&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1TB4y1h7Dg&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;欧美单曲&#34;&gt;欧美单曲&lt;/h3&gt;
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34; style=&#34;width:90%;margin-left:5%&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1WL41137CD&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;放松rb&#34;&gt;放松R&amp;amp;B&lt;/h3&gt;
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34; style=&#34;width:90%;margin-left:5%&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1Jm4y1f7MD&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        
+    </channel>
+</rss>
