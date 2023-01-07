@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 银河流浪家</title>
-        <link>&#39;MaeveWu.github.io&#39;/page/</link>
+        <link>https://maevewu.github.io/page/</link>
         <description>Recent content in Pages on 银河流浪家</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="'MaeveWu.github.io'/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maevewu.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>存档</title>
-        <link>&#39;MaeveWu.github.io&#39;/archives/</link>
+        <link>https://maevewu.github.io/archives/</link>
         <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
         
-        <guid>&#39;MaeveWu.github.io&#39;/archives/</guid>
+        <guid>https://maevewu.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>&#39;MaeveWu.github.io&#39;/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://maevewu.github.io/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>&#39;MaeveWu.github.io&#39;/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://maevewu.github.io/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;h2 id=&#34;set-me-free&#34;&gt;SET ME FREE&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;2001.10.12&lt;/li&gt;
@@ -67,10 +67,10 @@
         </item>
         <item>
         <title>检索</title>
-        <link>&#39;MaeveWu.github.io&#39;/search/</link>
+        <link>https://maevewu.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>&#39;MaeveWu.github.io&#39;/search/</guid>
+        <guid>https://maevewu.github.io/search/</guid>
         <description></description>
         </item>
         

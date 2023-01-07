@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>&#39;MaeveWu.github.io&#39;/en/</loc>
+    <loc>https://maevewu.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="%27MaeveWu.github.io%27/"
+                href="https://maevewu.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="%27MaeveWu.github.io%27/ar/"
+                href="https://maevewu.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="%27MaeveWu.github.io%27/en/"
+                href="https://maevewu.github.io/en/"
                 />
   </url><url>
-    <loc>&#39;MaeveWu.github.io&#39;/en/categories/</loc>
+    <loc>https://maevewu.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="%27MaeveWu.github.io%27/categories/"
+                href="https://maevewu.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="%27MaeveWu.github.io%27/ar/categories/"
+                href="https://maevewu.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="%27MaeveWu.github.io%27/en/categories/"
+                href="https://maevewu.github.io/en/categories/"
                 />
   </url><url>
-    <loc>&#39;MaeveWu.github.io&#39;/en/tags/</loc>
+    <loc>https://maevewu.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="%27MaeveWu.github.io%27/tags/"
+                href="https://maevewu.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="%27MaeveWu.github.io%27/ar/tags/"
+                href="https://maevewu.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="%27MaeveWu.github.io%27/en/tags/"
+                href="https://maevewu.github.io/en/tags/"
                 />
   </url>
 </urlset>
